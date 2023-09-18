@@ -1,13 +1,32 @@
-![Logo of the project](https://raw.githubusercontent.com/kazzyfrog/.github/main/README-template/sample-logo.png)
+<p align="center">
+  <img height=250px src="https://github.com/kazzyfrog/.github/blob/53dca095a67c18714d68a1ef432c71a1525244a8/README-template/sample-logo.png">
+</p>
+<h1 align="center">Welcome to Project-name 👋</h1>
 
-# Name of the project
+<p align="center">
+  <a alt="Open in Visual Studio Code" href="https://open.vscode.dev/kazzyfrog/.github">
+    <img src="https://img.shields.io/static/v1?logo=visualstudiocode&label=&message=Open%20in%20Visual%20Studio%20Code&labelColor=2c2c32&color=007acc&logoColor=007acc">
+  </a>
+  <img src="https://img.shields.io/badge/license-MIT-blue.svg">
+  <img src="https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat">
+</p>
+
 > Additional information or tagline
 
 A brief description of your project, what it is used for and how does life get
 awesome when someone starts to use it.
 
-## Installing / Getting started
+## Stack details
 
+A short introductory sentence about the stack. 
+ex1) We used modern tooling to build this example project, including:
+ex2) We used the following stacks during the study:
+
+- Written in Language
+- 
+
+
+## Installing / Getting started
 A quick introduction of the minimal setup you need to get a hello world up &
 running.
 
@@ -94,19 +113,9 @@ Copy-paste as many of these as you need.
 
 ## Contributing
 
-When you publish something open source, one of the greatest motivations is that
-anyone can just jump in and start contributing to your project.
-
-These paragraphs are meant to welcome those kind souls to feel that they are
-needed. You should state something like:
-
-"If you'd like to contribute, please fork the repository and use a feature
-branch. Pull requests are warmly welcome."
-
-If there's anything else the developer needs to know (e.g. the code style
-guide), you should link it here. If there's a lot of things to take into
-consideration, it is common to separate this section to its own file called
-`CONTRIBUTING.md` (or similar). If so, you should say that it exists here.
+Contributions, issues and feature requests are welcome!<br />
+Feel free to check issues page if you want to contribute.<br />
+Please read the [contribution guidelines](./CONTRIBUTING.md) first.
 
 ## Links
 
@@ -124,8 +133,13 @@ links to humans using your project. You can include links like:
   - Your other project: https://github.com/your/other-project/
   - Someone else's project: https://github.com/someones/awesome-project/
 
+## Reference
 
-## Licensing
+Here's a list of other related projects where you can find inspiration for your own project:
+
+- test
+
+## License
 
 One really important part: Give your project a proper license. Here you should
 state what the license is and how to find the text version of the license.
