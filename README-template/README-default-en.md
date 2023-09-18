@@ -18,9 +18,9 @@ awesome when someone starts to use it.
 
 ## Stack details
 
-A short introductory sentence about the stack. 
-ex1) We used modern tooling to build this example project, including:
-ex2) We used the following stacks during the study:
+A short introductory sentence about the stack. <br />
+ex1 ) We used modern tooling to build this example project, including: <br />
+ex2 ) I used these stacks as practice:
 
 - Written in Language
 - 
