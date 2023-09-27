@@ -35,11 +35,18 @@ project-name/
     ├─                # 
 ```
 
-## Gitガイドライン
+## コミットメッセージガイド
 
-### ブランチについて
+例：`prefix:emoji:add xxx for yyy #n`
 
-### コミットメッセージについて
+- feat:sparkles: 機能追加
+- fix:bug: バグ修正
+- docs:books: ドキュメントのみの変更
+- style:art: 見た目のみ（UI）の変更
+- refactor:recycle: 仕様に影響がない（機能追加でもバグ修正でもない）コード改善・リファクタ
+- perf:racehorse: パフォーマンスを向上させる変更
+- test:rotating_light: 不足しているテストの追加、または既存のテストの修正
+- chore:gear: ビルド、補助ツール、ライブラリ関連の変更
 
 
 ## 外部リンク
