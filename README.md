@@ -33,6 +33,9 @@ Here's a list of other related projects and articles where you can find inspirat
   - [(新人)エンジニアが開発しやすいREADMEの書き方](https://speakerdeck.com/knr109/xin-ren-enziniagakai-fa-siyasuireadmenoshu-kifang)
 - License
   - [The Legal Side of Open Source](https://opensource.guide/legal/#which-open-source-license-is-appropriate-for-my-project)
+- Git Guidelines
+  - [Angular.js](https://github.com/angular/angular.js/blob/master/DEVELOPERS.md#commits)
+  - [atom](https://github.com/atom/atom/blob/master/CONTRIBUTING.md#git-commit-messages)
 - Issue and pull request templates:
   - test
 
