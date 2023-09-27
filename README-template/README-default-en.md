@@ -117,6 +117,19 @@ Contributions, issues and feature requests are welcome!<br />
 Feel free to check issues page if you want to contribute.<br />
 Please read the [contribution guidelines](./CONTRIBUTING.md) first.
 
+## Git Commit Guidelines
+
+Simple example：`prefix:emoji:add xxx for yyy #n`
+
+- feat:sparkles: A new feature
+- fix:bug: A bug fix
+- docs:books: Documentation only changes
+- style:art: Changes that do not affect the meaning of the code (white-space, formatting, missing semi-colons, etc)
+- refactor:recycle: A code change that neither fixes a bug nor adds a feature
+- perf:racehorse: A code change that improves performance
+- test:rotating_light: Adding missing or correcting existing tests
+- chore:gear: Changes to the build process or auxiliary tools and libraries such as documentation generation
+
 ## Links
 
 Even though this information can be found inside the project on machine-readable
