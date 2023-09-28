@@ -1,5 +1,5 @@
 ---
-name: Custom issue template
+name: Normal issue template/ ja
 about: Describe this issue template's purpose here.
 title: ''
 labels: ''
