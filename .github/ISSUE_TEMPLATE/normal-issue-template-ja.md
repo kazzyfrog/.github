@@ -1,15 +1,15 @@
 ---
 name: Normal issue template/ ja
-about: Describe this issue template's purpose here.
+description: Describe this issue template's purpose here.
 title: ''
 labels: ''
 assignees: ''
 
 ---
 
-## 目的
+## 目的または概要
 
-## TaskList
+## タスク一覧
 + [ ] 
 
 ## Doneの定義
