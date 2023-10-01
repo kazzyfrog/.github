@@ -36,8 +36,12 @@ Here's a list of other related projects and articles where you can find inspirat
 - Git Guidelines
   - [Conventional Commits](https://www.conventionalcommits.org/en/v1.0.0/)
   - [atom](https://github.com/atom/atom/blob/master/CONTRIBUTING.md#git-commit-messages)
-- Issue and pull request templates:
-  - test
+
+### [How to use multiple pull request templates](https://docs.github.com/en/communities/using-templates-to-encourage-useful-issues-and-pull-requests/creating-a-pull-request-template-for-your-repository)
+
+When creating a PR, a template query parameter can be added to the URL to specify the appropriate template. <br />
+For example: <br />
+`https://github.com/your_username/your_repository/compare/your_branch?template=normal_PR_template_en.md`
 
 ## License
 
