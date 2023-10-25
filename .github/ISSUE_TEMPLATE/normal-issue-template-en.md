@@ -13,5 +13,6 @@ assignees: ''
 + [ ] 
 
 ## Definition of "Done"
+<!-- Requests in a form that a third party can see and determine to be Done. -->
 
 ## Reference
