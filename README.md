@@ -1,7 +1,10 @@
+- :books:test
+- :books: test
+
 <p align="center">
   <img height=250px src="https://github.com/kazzyfrog/.github/blob/53dca095a67c18714d68a1ef432c71a1525244a8/README-template/sample-logo.png">
 </p>
-<h1 align="center">Welcome to .github repo 👋</h1>
+<h1 align="center">Welcome to .github repo :wave: </h1>
 
 <p align="center">
   <a alt="Open in Visual Studio Code" href="https://open.vscode.dev/kazzyfrog/.github">
