@@ -22,7 +22,7 @@ Quickly start a new project and update the default files as needed!
 
 Contributions, issues and feature requests are welcome!<br />
 Feel free to check issues page if you want to contribute.<br />
-Please read the [contribution guidelines](./CONTRIBUTING.md) first.
+Please read the [contribution guidelines](/) first.
 
 ## Reference
 
